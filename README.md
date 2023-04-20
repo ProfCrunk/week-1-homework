@@ -17,4 +17,3 @@ I also used [this tutorial](https://docs.readme.com/main/docs/linking-to-pages#:
 
 ## License
 Refer to license in the repo.
-

@@ -8,8 +8,7 @@ N/A
 
 ## Usage
 To see the alt text additions without a screen reader, use Chrome dev tools by pressing command+option+I (MacOS) or control+shift+I (windows). You can also doubleclick on the front page, and then press the inspect command, to open dev tools. 
-[alt text](screenshots/screenshot.png "See shot with proper title and examples of alt text")
-
+[alt text](./assets/Screenshot.png)
 ## Credits 
 Because the background image is linked in the CSS here, the standard alt text designations in the html didn't work so I sourced code from [here](http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html#:~:text=Summary&text=For%20ambient%20images%20that%20are,be%20used%20for%20information%20content.) It gave me the information necessary to create alt text in the html file for the background image. 
 
